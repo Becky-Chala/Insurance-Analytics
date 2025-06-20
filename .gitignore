@@ -3,4 +3,9 @@
 .vscode/
 __pycache__/
 *.pyc
-data/
+# Ignore raw data files
+*.txt
+*.csv
+
+# But NOT the .dvc tracking files
+!data/*.dvc
