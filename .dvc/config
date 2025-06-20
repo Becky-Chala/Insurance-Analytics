@@ -1,4 +1,4 @@
 [core]
     remote = localstorage
 ['remote "localstorage"']
-    url = /path/to/local_dvc_storage
+    url = C:/Users/Bereket/Documents/Tenx/Week 3/dvc_storage
